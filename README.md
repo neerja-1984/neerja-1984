@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
 
 ------------------
 
-# 📖 Book Club Corner!  
+## 📖 Book Club Corner!  
 Got a book, article, blog or *forbidden manuscript* you swear by?  
 Drop your suggestions below! (Even Wattpads are a fair game 👀)
 

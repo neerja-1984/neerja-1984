@@ -5,7 +5,8 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people, and exchanging ideas on all topics </b> so if you want to, <b>say hi, I'll be happy to exchange ideas and discuss more!
 How about starting from my book club section below 👀</b> </em>
 
-[![Gmail Badge](https://img.shields.io/badge/-nirjadoshi2003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nirjadoshi2003@gmail.com)](mailto:nirjadoshi2003@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-nirjadoshi2003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:nirjadoshi2003@gmail.com)
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=neerja-1984&color=blueviolet&style=flat-square)
 

@@ -1,77 +1,62 @@
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div>
     <em> <h1> <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHM4YmQzZXh2OHIya3pvd3U1cW5qYWk0MXpjdGQ2cDJsZ2I3eWV1dSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Rab1fKVVxQZH2T5Xf1/giphy.gif" width="50" /> 
-      Ohio Travelers, it's Neerja Reporting Live from <a href="https://github.com/neerja-1984" target="_blank">github.com</a> ! </h1> </em>
-    
-    <p>
-      Heya, fellow wanderer! It's me, Neerja — setting sail to <b>unravel repositories</b>, 
-      <b>uncover hidden bugs</b>, and <b>chart pull request maps</b> across the vast landscapes of code.<br><br>
-      Every commit is a new discovery, every merge a little victory. 🧭✨
-    </p>
-    
-  </div>
-  <div>
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN3Z2djZiMHJpdWpzbW1mOTU1cnNwdTNyNTBkNmlyaTRhZXZoNGN2bSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/L0rgqaWEtCjJr6usq4/giphy.gif" width="50" />
+      Ohio Travelers, it's Neerja Reporting Live from <a href="https://github.com/neerja-1984" target="_blank">github.com</a> ! </h1> </em> 
   </div>
 </div>
 
+![Neerja's GitHub Stats](https://github-readme-stats.vercel.app/api?username=neerja-1984&show_icons=true&theme=tokyonight)
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people, and exchanging ideas on all topics </b> so if you want to say <b>hi, I'll be happy to meet you more!</b> </em> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50" />
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people, and exchanging ideas on all topics </b> so if you want to say <b>hi, I'll be happy to exchange ideas and discuss more!</b> </em>
+[![Gmail Badge](https://img.shields.io/badge/-nirjadoshi2003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nirjadoshi2003@gmail.com)](mailto:nirjadoshi2003@gmail.com)
 
+<h2>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzgyeXJqZXp6MXd4ejh0bTZweGljMm1kMWR2b2x1MW84cXd4bTN2cyZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/3BBv1D4AFbJkY/giphy.gif" width="30" > Technologies
+</h2>
 
-### <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJuZDFiOG13M2xhcDVyMXhma21kMHk2ZGtqNjl5eWZwZDVtOWR2dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/AcNGtH7raRIiQxnDu7/giphy.gif" width="50" />  <em> A little more about me...  </em>
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![CrewAI](https://img.shields.io/badge/CrewAI-4A90E2?style=for-the-badge)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
 
-```javascript
-const anmol = {
-    pronouns: "He" | "Him",
-    code: ["TypeScript", "Javascript", "Python", "Dart"],
-    askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Next.js"],
-            css: ["Sass", "Tailwind", "Bootstrap"],
-            uiLibraries: ["Material UI", "Ant Design", "Chakra UI"],
-        },
-        backEnd: {
-            js: ["Node", "Express", "NestJS"],
-            python: ["Flask"],
-        },
-        mobileApp: {
-            crossPlatform: ["Flutter"],
-        },
-        devOps: ["Docker🐳", "CI/CD", "Nginx", "GitHub Actions"],
-        cloudServices: {
-            aws: ["AWS Fargate", "EC2", "S3", "Lambda", "CloudWatch", "RDS"],
-        },
-        databases: ["PostgreSQL", "MongoDB", "SQLite", "Firebase Realtime DB", "redis"],
-        misc: ["Socket.IO", "REST APIs", "WebSockets", "Cloud Functions"],
-        generativeAI: ["GPT", "Vectorization"],
-    },
-    architecture: {
-        frontEnd: ["SPA", "SSR"],
-        backEnd: ["microservices", "monolithic", "serverless"],
-        devOps: ["CloudFormation", "Serverless Framework"],
-        databases: ["Relational", "NoSQL", "In-memory"],
-    },
-    currentFocus: "Leading a way in generative AI innovation",
-    funFact: "I can debug faster with a coffee in hand!"
-};
-```
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+
+![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![Pinecone](https://img.shields.io/badge/pinecone%20db-00BFA5?style=for-the-badge&logo=pinecone&logoColor=white)
+
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 
 
-
-
-![Code Time](http://img.shields.io/badge/Code%20Time-4%2C062%20hrs%2021%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-781-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.8%20million%20lines%20of%20code-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=neerja-1984&color=blueviolet&style=flat-square)
 
 ---------------
 
 ## 🎵 Check Out My Music Player  
 🎧[Listen Here!](https://neerja-1984.github.io/music-player/)
+
+<a href="https://neerja-1984.github.io/music-player/" target="_blank">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHNhMnA4MzV4NHcwaG16dmtkYzA4b3RpYXFpamNoZW8ydTVncG03cCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/cEDRuV9CrnFpqyEgfB/giphy.gif" alt="Music Player" width="250" style="border-radius:10px;">
+</a>
+<br/>
+<p align="center"><b>🎵 Music Player 🎧</b></p>
 
 
 ------------------

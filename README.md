@@ -24,6 +24,8 @@ How about starting from my book club section below 👀</b> </em>
   ![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
   ![CrewAI](https://img.shields.io/badge/CrewAI-4A90E2?style=for-the-badge)
   ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)
+  ![HuggingFace](https://img.shields.io/badge/huggingface-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=white)
+  ![LangChain](https://img.shields.io/badge/langchain-%231C3C3C.svg?style=for-the-badge&logo=langchain&logoColor=white)
   
   ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
   ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)

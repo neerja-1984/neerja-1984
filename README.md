@@ -33,7 +33,6 @@ How about starting from my book club section below 👀</b> </em>
 <a href="https://www.pharo.org">
     <img alt="Pharo" src="https://img.shields.io/static/v1?style=for-the-badge&message=Pharo&color=3297d4&logo=Harbor&logoColor=FFFFFF&label=" />
 </a>
-[![Made with Pharo](https://img.shields.io/badge/Made%20with-Pharo-5cb7e9)](https://pharo.org)
 [![Metacello](https://img.shields.io/badge/Install%20via-Metacello-4b8bbe)](#installation)
   
   ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)

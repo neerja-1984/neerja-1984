@@ -5,6 +5,14 @@
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people, and exchanging ideas on all topics </b> so if you want to, <b>say hi, I'll be happy to exchange ideas and discuss more!
 How about starting from my book club section below 👀</b> </em>
 
+🚀 I’ve contributed to several open-source organizations, with my most impactful work being PAM — a Text-to-Speech (TTS) model developed during the
+<a href="https://summerofcode.withgoogle.com/programs/2025/projects/7yEBbF4z" target="_blank">Google Summer of Code 2025</a>, under the guidance of the
+<a href="https://pharo.org/" target="_blank">Pharo Consortium</a>.
+
+📄 For a quick overview, check out my one-pager:
+👉 <a href="https://neerja-1984.github.io/rewind-gsoc25/" target="_blank">Rewind GSoC'2025</a>
+
+
 [![Gmail Badge](https://img.shields.io/badge/-nirjadoshi2003@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:nirjadoshi2003@gmail.com)
 
 
